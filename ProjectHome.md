@@ -1,0 +1,1 @@
+Copyright © 2010 Columbia University, University of Maryland, Smithsonian Institution.
